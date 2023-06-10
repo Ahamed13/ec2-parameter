@@ -1,0 +1,9 @@
+Parameters:
+  InstanceTypes:
+    Description: Defining the instance type
+    Type: String
+    Default: t2.small
+
+  ImageIds:
+    Type: String
+    Default: ami-04a0ae173da5807d3
